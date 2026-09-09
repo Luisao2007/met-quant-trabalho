@@ -1,7 +1,7 @@
 
 # Atividade Prática (Ames Housing)
 
-Uma atividade da cadeira de Métodos Quantitativos que visa explorar o mundo problabilístico. 
+Uma atividade da cadeira de Métodos Quantitativos que visa explorar o mundo probabilístico. 
 
 
 ## Authors
