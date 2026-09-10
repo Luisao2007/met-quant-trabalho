@@ -1,0 +1,4 @@
+# Para os Notebooks
+ipykernel
+pandas
+matplotlib
