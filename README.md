@@ -18,7 +18,7 @@ O projeto consiste em:
 `requirements.txt`: _Bibliotecas necessárias para a execução correta do projeto._
 ## Preparando o Ambiente
 
-Antes de mais nada, **é importante que você esteja com o Google Colabolatory aberto, logado com uma conta Google e com um notebook criado**, pois os notebooks devem ser executados por lá. 
+Antes de mais nada, **é importante que você esteja com o Google Colabolatory aberto e logado com uma conta Google**, pois os notebooks devem ser executados por lá. 
 
 Este ambiente **não** necessita da instalação local de nenhum arquivo, e **todas** as bibliotecas utilizadas estão listadas no `requirements.txt`.
 
@@ -46,9 +46,9 @@ Para executar os notebooks, você deve seguir os seguintes passos:
 
     2. Clique no "Open in Colab" que está contido no topo de qualquer um dos arquivos.
 
-    3. Faça login da sua conta Google, caso já não tenha feito.
+    3. No Colab, faça login da sua conta Google, caso já não tenha feito.
 
-    4. Clique em "Ambiente de execução > Executar tudo" ou Ctrl + F9 no seu teclado para executar cada célula de comando
+    4. No mesmo ambiente, Clique em "Ambiente de execução > Executar tudo" ou Ctrl + F9 no seu teclado para executar cada célula de comando.
 A partir daqui, você só precisará scrollar para baixo para ver os resultados da atividade.
 ## Integrantes
 
