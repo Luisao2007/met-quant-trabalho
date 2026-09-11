@@ -1,4 +1,4 @@
 # Para os Notebooks
-ipykernel
 pandas
+numpy
 matplotlib
